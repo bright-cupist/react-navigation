@@ -18152,12 +18152,7 @@ react-native-screens@~3.11.1:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
-react-native-tab-view@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-tab-view/-/react-native-tab-view-3.1.1.tgz#1f8d7a835ab4f5b1b1407ec8dddc1053b53fa3c6"
-  integrity sha512-M5pRN6utQfytKWoKlKVzg5NbkYu308qNoW1khGTtEOTs1k14p2dHJ/BWOJoJYHKbPVUyZldbG9MFT7gUl4YHnw==
-
-"react-native-tab-view@https://github.com/bright-cupist/react-native-tab-view":
+react-native-tab-view@^3.1.1, "react-native-tab-view@https://github.com/bright-cupist/react-native-tab-view":
   version "3.1.1"
   resolved "https://github.com/bright-cupist/react-native-tab-view#aaea69fb08d7e866684bae2ebd792dd245e67770"
 
