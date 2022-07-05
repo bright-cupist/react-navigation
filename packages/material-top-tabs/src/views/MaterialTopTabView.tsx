@@ -70,6 +70,7 @@ export default function MaterialTopTabView({
         { backgroundColor: colors.background },
         sceneContainerStyle,
       ]}
+      options={focusedOptions as { swipeEnabled: boolean }}
     />
   );
 }
